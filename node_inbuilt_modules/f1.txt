@@ -1,0 +1,4 @@
+Online payment service PayPal says swapping Java for node.js on its servers is allowing it to serve web pages more rapidly and simplifying the creation of server-side software.
+PayPal has moved from building web applications using Java to using JavaScript in the browser and node.js on servers.
+Node.js is a platform built on Chrome's JavaScript runtime that allows engineers to build fast and scalable network applications using JavaScript.
+Node.js is suited to creating data-intensive, real-time applications that run across distributed devices using its event driven, non-blocking I/O model.

@@ -1,0 +1,2 @@
+Writing sample text into the file2
+This is my update text contentThis is my update text content
